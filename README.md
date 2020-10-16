@@ -4,10 +4,6 @@
   <img width=250 height=200 src="pdc.gif">
 </p>
 
-<p align="right">
-  <img width=120 height=200 src="cuda.png">
-</p>
-
 ## Description: ##
 This repository consists of a few programs that deal with heavy computation by using parallel computing means:
 1. exe1 presents the static\dynamic methods of parallel computing, using MPI.
@@ -20,3 +16,7 @@ This repository consists of a few programs that deal with heavy computation by u
 3. CUDA development.
 
 For more information, please visit the attached assignment pdf files within each of the project directories.
+
+<p align="right">
+  <img width=120 height=200 src="cuda.png">
+</p>
