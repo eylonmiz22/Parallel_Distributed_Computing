@@ -1,6 +1,6 @@
 # **Parallel/Distributed Computing** #
 
-<p align="left">
+<p align="center">
   <img width=250 height=200 src="pdc.gif">
 </p>
 
@@ -17,6 +17,6 @@ This repository consists of a few programs that deal with heavy computation by u
 
 For more information, please visit the attached assignment pdf files within each of the project directories.
 
-<p align="right">
+<p align="center">
   <img width=120 height=200 src="cuda.png">
 </p>
