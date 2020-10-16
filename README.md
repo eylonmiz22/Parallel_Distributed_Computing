@@ -1,8 +1,7 @@
 # **Parallel/Distributed Computing** #
 
-<p align="center">
-  <img width=250 height=200 src="sa.jpg">
-  <img width=120 height=200 src="sa.jpg">
+<p align="left">
+  <img width=250 height=200 src="pdc.gif">
 </p>
 
 ## Description: ##
@@ -17,3 +16,7 @@ This repository consists of a few programs that deal with heavy computation by u
 3. CUDA development.
 
 For more information, please visit the attached assignment pdf files within each of the project directories.
+
+<p align="right">
+  <img width=120 height=200 src="cuda.png">
+</p>
