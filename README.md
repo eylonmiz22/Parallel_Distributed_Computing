@@ -1,7 +1,10 @@
 # **Parallel/Distributed Computing** #
 
-<p align="center">
+<p align="left">
   <img width=250 height=200 src="pdc.gif">
+</p>
+
+<p align="right">
   <img width=120 height=200 src="cuda.png">
 </p>
 
