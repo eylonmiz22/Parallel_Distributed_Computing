@@ -1,8 +1,8 @@
 # **Parallel/Distributed Computing** #
 
 <p align="center">
-  <img width=250 height=200 src="sa.jpg">
-  <img width=120 height=200 src="sa.jpg">
+  <img width=250 height=200 src="pdc.gif">
+  <img width=120 height=200 src="cuda.png">
 </p>
 
 ## Description: ##

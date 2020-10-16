@@ -1,7 +1,7 @@
 # **SequenceAlignment** #
 
 <p align="center">
-  <img width=300 height=150 src="sa.jpg">
+  <img width=300 height=150 src="sa.png">
 </p>
 
 ## Description: ##
